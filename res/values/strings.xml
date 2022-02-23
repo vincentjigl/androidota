@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_label">OTA</string>
+
+    <string name="menu_new_tab">New tab</string>
+    <string name="menu_close_tab">Close tab</string>
+
+</resources>
